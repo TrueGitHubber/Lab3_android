@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лаба3</string>
+    <string name="hint_get_username">Введи имя(только символы алфавита)</string>
+    <string name="btn_make_photo">Сделать фото</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="hint_get_username">Input name(only alphabetic characters)</string>
+    <string name="btn_make_photo">Take a photo</string>
+</resources>
